@@ -22,9 +22,9 @@
   ],
   "license": "ISC",
   "files": [
-    "attachNode.mjs"
+    "attachNode.js"
   ],
-  "main": "attachNode.mjs",
+  "main": "attachNode.js",
   "bugs": {
     "url": "https://github.com/hypersoftllc/qc-attach-node/issues"
   },
