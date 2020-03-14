@@ -7,6 +7,19 @@
     "url": "https://github.com/dhurlburtusa"
   },
   "homepage": "https://github.com/hypersoftllc/qc-attach-node",
+  "keywords": [
+    "after",
+    "attach",
+    "attachNode",
+    "before",
+    "dom",
+    "element",
+    "end",
+    "endof",
+    "node",
+    "start",
+    "startof"
+  ],
   "license": "ISC",
   "files": [
     "attachNode.mjs"
