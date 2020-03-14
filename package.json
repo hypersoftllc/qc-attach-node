@@ -1,23 +1,36 @@
 {
   "name": "@qc/attach-node",
-  "version": "0.0.0-alpha",
+  "version": "0.0.0-alpha.1",
   "description": "Allows easy attachment of a Node or an Element instance to another Node instance or an Element instance.",
   "author": {
     "name": "Danny Hurlburt",
     "url": "https://github.com/dhurlburtusa"
   },
-  "homepage": "https://github.com/hypersoftllc/qc-attach-node",
+  "homepage": "https://github.com/hypersoftllc/qc-attach-node#readme",
+  "keywords": [
+    "after",
+    "attach",
+    "attachNode",
+    "before",
+    "dom",
+    "element",
+    "end",
+    "endof",
+    "node",
+    "start",
+    "startof"
+  ],
   "license": "ISC",
   "files": [
-    "attachNode.mjs"
+    "attachNode.js"
   ],
-  "main": "attachNode.mjs",
+  "main": "attachNode.js",
   "bugs": {
-    "url": "https://github.com/hypersoftllc/qc-date-round/issues"
+    "url": "https://github.com/hypersoftllc/qc-attach-node/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hypersoftllc/qc-date-round.git"
+    "url": "https://github.com/hypersoftllc/qc-attach-node.git"
   },
   "publishConfig": {
     "access": "public"
