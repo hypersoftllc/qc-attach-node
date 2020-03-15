@@ -21,7 +21,8 @@
     "endof",
     "node",
     "start",
-    "startof"
+    "startof",
+    "utility"
   ],
   "license": "ISC",
   "files": [
