@@ -6,6 +6,9 @@
     "name": "Danny Hurlburt",
     "url": "https://github.com/dhurlburtusa"
   },
+  "bugs": {
+    "url": "https://github.com/hypersoftllc/qc-attach-node/issues"
+  },
   "homepage": "https://github.com/hypersoftllc/qc-attach-node#readme",
   "keywords": [
     "after",
@@ -25,13 +28,11 @@
     "attachNode.js"
   ],
   "main": "attachNode.js",
-  "bugs": {
-    "url": "https://github.com/hypersoftllc/qc-attach-node/issues"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hypersoftllc/qc-attach-node.git"
   },
+  "sideEffects": false,
   "publishConfig": {
     "access": "public"
   }
